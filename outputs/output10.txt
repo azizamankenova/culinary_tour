@@ -1,0 +1,2 @@
+Gourmet_ID	Favorite_Cuisine	Favorite_Restaurant	Travel_Destination	Average_Budget
+18	15	119	3	260

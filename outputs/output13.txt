@@ -1,0 +1,29 @@
+Cuisine_ID	Type	Restaurant_Count	Distinct_Country_Region_Count
+1	Alpine	1	1
+2	American	1	1
+3	Asian	1	1
+4	Californian	3	1
+5	Cantonese	6	2
+6	Chinese	1	1
+7	Classic Cuisine	3	1
+8	Classic French	6	3
+9	Contemporary	7	4
+10	Country Cooking	1	1
+11	Creative	30	8
+12	European Contemporary	1	1
+13	French	9	4
+14	French Contemporary	4	2
+15	Innovative	5	5
+16	Italian	2	2
+17	Japanese	10	1
+18	Korean	2	1
+19	Mediterranean Cuisine	1	1
+20	Modern British	1	1
+21	Modern Cuisine	17	7
+22	Modern French	1	1
+23	Regional Cuisine	1	1
+24	Seafood	4	3
+25	Sushi	3	3
+26	Taizhou	1	1
+27	Traditional Cuisine	2	1
+28	Vegetarian	1	1

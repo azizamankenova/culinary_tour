@@ -1,0 +1,17 @@
+Name	Chef	Destination_Name
+Hof van Cleve	Peter Goossens	Belgium
+Zilte	Viki Geunes	Belgium
+Guy Savoy	Guy Savoy	France and Monaco
+Caprice	Guillaume Galliot	Hong Kong and Macau
+Da Vittorio	Vittorio Cerea	Italy
+Uliassi	Mauro Uliassi	Italy
+Sazenka	Tomoya Kawada	Japan
+Les Amis	Sebastien Lepinoy	Singapore
+Odette	Julien Royer	Singapore
+Cheval Blanc	Peter Knogl	Switzerland
+Restaurant Gordon Ramsay	Gordon Ramsay and Matt Abe	United Kingdom
+Alinea	Grant Achatz and Simon Davies	United States
+Manresa	David Kinch and Nicholas Romero	United States
+Masa	Masa Takayama	United States
+Eleven Madison Park	Daniel Humm and Brian Lockwood	United States
+Benu	Corey Lee and Brandon Rodgers	United States

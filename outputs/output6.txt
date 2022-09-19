@@ -1,0 +1,20 @@
+Country_Region	Destination_Name	Restaurant_Count
+5	France and Monaco	27
+9	Japan	16
+19	United States	13
+14	Spain	11
+8	Italy	11
+7	Hong Kong and Macau	10
+18	United Kingdom	8
+6	Germany	8
+16	Switzerland	3
+12	Singapore	3
+3	China	3
+13	South Korea	2
+10	Netherlands	2
+4	Denmark	2
+2	Belgium	2
+17	Taiwan	1
+15	Sweeden	1
+11	Norway	1
+1	Austria	1

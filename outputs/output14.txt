@@ -1,0 +1,7 @@
+Destination_Name	Gourmet_Count
+France and Monaco	2
+Hong Kong and Macau	2
+Italy	2
+Japan	2
+Switzerland	3
+United States	3

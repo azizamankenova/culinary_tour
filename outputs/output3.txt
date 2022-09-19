@@ -1,0 +1,2 @@
+Restaurant_ID	Name	Chef	Country_Region	Cuisine_Type	Awarded_Since	Average_Price
+71	Taian	Hitoshi Takahata	9	17	2011-01-01	152
